@@ -1,0 +1,7 @@
+5 a b c d e
+5 f g c h i
+5 j g c h k
+5 j l c d m
+5 n l c d m
+4 o g c h
+5 o p q d k
